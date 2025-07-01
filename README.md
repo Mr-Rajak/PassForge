@@ -12,4 +12,7 @@ A simple Bash-based password generator script that generates secure random passw
 ## 🚀 How to Use
 
 ```bash
-bash passforge.sh
+sudo ./pass.sh
+# OR
+sudo bash pass.sh
+
