@@ -3,16 +3,10 @@ A simple Bash-based password generator script that generates secure random passw
 
 ## 📸 Screenshots
 
-### ✅ Example Output 1
-![Output Screenshot 1](https://github.com/Mr-Rajak/PassForge/blob/main/Screenshort/Output1.png)
-
-### ✅ Example Output 2
-![Output Screenshot 2](https://github.com/Mr-Rajak/PassForge/blob/main/Screenshort/Output2.png)
+### ✅ Example Output
+![Output Screenshot 1](https://github.com/Mr-Rajak/PassForge/blob/main/Screenshort/Output.png)
 
 ## 🚀 How to Use
 
 ```bash
-sudo ./pass.sh
-# OR
 sudo bash pass.sh
-
