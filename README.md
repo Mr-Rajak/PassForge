@@ -11,5 +11,5 @@ A simple Bash-based password generator script that generates secure random passw
 
 ## 🚀 How to Use
 
-```bash
+```./pass.sh
 bash passforge.sh
